@@ -1,5 +1,6 @@
-# Cypress
+# Cypress-Thetamax93 Fork
 This automation is written in TypeScript (a strict syntactical superset of JavaScript and adds optional static typing to the language)
+Please note that this is a fork from the: https://github.com/alvintrianto/Cypress-typescript.git
 
 ## Running Tests
 
